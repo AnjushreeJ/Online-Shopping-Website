@@ -151,7 +151,7 @@ mvn spring-boot:run
 ```
 
 **Step 5 — Open in browser:**
-http://localhost:8080
+http://localhost:8081
 
 ---
 
